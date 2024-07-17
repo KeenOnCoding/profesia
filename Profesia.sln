@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{25FEB6A9-56BD-499F-BBED-E0AA1ED13A34}"
+	ProjectSection(SolutionItems) = preProject
+		cloud-migration.html = cloud-migration.html
+		devops.html = devops.html
+		devsecops.html = devsecops.html
+		fin-ops.html = fin-ops.html
+		index.html = index.html
+		well-architected.html = well-architected.html
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7211CA91-2A93-4114-8D82-F78E2F847B7B}
+	EndGlobalSection
+EndGlobal
